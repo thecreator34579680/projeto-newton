@@ -1,2 +1,1 @@
-# projeto-newton
-projeto da lei de newton
+# NC27
